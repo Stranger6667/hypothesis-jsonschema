@@ -26,7 +26,7 @@ setuptools.setup(
     packages=setuptools.find_packages(SOURCE),
     package_dir={"": SOURCE},
     package_data={"": ["py.typed"]},
-    url="https://github.com/Zac-HD/hypothesis-jsonschema",
+    url="https://github.com/python-jsonschema/hypothesis-jsonschema",
     project_urls={"Funding": "https://github.com/sponsors/Zac-HD"},
     license="MPL 2.0",
     description="Generate test data from JSON schemata with Hypothesis",

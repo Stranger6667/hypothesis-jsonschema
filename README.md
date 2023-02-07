@@ -61,14 +61,14 @@ support, roadmap input, and prioritized feature development.
 ## Contributing to `hypothesis-jsonschema`
 
 We love external contributions - and try to make them both easy and fun.
-You can [read more details in our contributing guide](https://github.com/Zac-HD/hypothesis-jsonschema/blob/master/CONTRIBUTING.md),
-and [see everyone who has contributed on GitHub](https://github.com/Zac-HD/hypothesis-jsonschema/graphs/contributors).
+You can [read more details in our contributing guide](https://github.com/python-jsonschema/hypothesis-jsonschema/blob/master/CONTRIBUTING.md),
+and [see everyone who has contributed on GitHub](https://github.com/python-jsonschema/hypothesis-jsonschema/graphs/contributors).
 Thanks, everyone!
 
 
 ### Changelog
 
-Patch notes [can be found in `CHANGELOG.md`](https://github.com/Zac-HD/hypothesis-jsonschema/blob/master/CHANGELOG.md).
+Patch notes [can be found in `CHANGELOG.md`](https://github.com/python-jsonschema/hypothesis-jsonschema/blob/master/CHANGELOG.md).
 
 
 ### Security contact information

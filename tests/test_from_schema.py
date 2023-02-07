@@ -151,7 +151,7 @@ FLAKY_SCHEMAS = {
     "draft4/oneOf with missing optional property",
     "draft7/oneOf with missing optional property",
     # Sometimes unsatisfiable.  TODO: improve canonicalisation to remove filters
-    "JSCS configuration file",  # https://github.com/Zac-HD/hypothesis-jsonschema/pull/78#issuecomment-803519293
+    "JSCS configuration file",  # https://github.com/python-jsonschema/hypothesis-jsonschema/pull/78#issuecomment-803519293
     "Drone CI configuration file",
     "PHP Composer configuration file",
     "Pyrseas database schema versioning for Postgres databases, v0.8",
@@ -385,7 +385,7 @@ SCHEMA = {
 
 @given(from_schema(SCHEMA))
 def test_single_property_can_generate_nonempty(query):
-    # See https://github.com/Zac-HD/hypothesis-jsonschema/issues/25
+    # See https://github.com/python-jsonschema/hypothesis-jsonschema/issues/25
     assume(query)
 
 

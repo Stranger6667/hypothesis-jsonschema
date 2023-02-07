@@ -10,7 +10,7 @@ We use [Github Flow](https://guides.github.com/introduction/flow/index.html),
 so here's the workflow for a new contributor:
 
 1. Choose an issue to work on - preferably one of the
-   [issues tagged `good first issue`](https://github.com/Zac-HD/hypothesis-jsonschema/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+   [issues tagged `good first issue`](https://github.com/python-jsonschema/hypothesis-jsonschema/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 
 2. Fork the repo, clone it to your local machine, and create your branch from `master`.
    (If this sounds scary, [check out GitHub's *Hello World* guide](https://guides.github.com/activities/hello-world/))
